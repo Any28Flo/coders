@@ -2,11 +2,30 @@ body{
   font-family: 'Lobster', cursive;
   font-size: 40px;
 }
-
+#primero{
+  height: 300px;
+  position: relative;
+  top:50px;
+}
 img{
   width: 200px;
   height:200px;
+  position: absolute;
 }
 .nombre{
   font-size: 20px;
+  position: absolute;
+  top:170px;
+  left:35px;
+}
+.img{
+  height: 300px;
+  width: 300px;
+  position: absolute;
+}
+#columna2{
+  left: 300px;
+}
+#columna3{
+  left: 600px;
 }
