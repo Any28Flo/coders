@@ -23,9 +23,14 @@ img{
   width: 300px;
   position: absolute;
 }
-#columna2{
+.columna2{
   left: 300px;
 }
-#columna3{
+.columna3{
   left: 600px;
+}
+#segundo{
+  position: relative;
+  top:0px;
+  height: 200px;
 }
