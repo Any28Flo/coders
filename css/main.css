@@ -1,3 +1,12 @@
 body{
-  background-color: red;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+}
+
+img{
+  width: 200px;
+  height:200px;
+}
+.nombre{
+  font-size: 20px;
 }
